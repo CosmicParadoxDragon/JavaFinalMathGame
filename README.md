@@ -1,13 +1,11 @@
 
-
 # Readme [WIP]
 
-
-## Eclipse Project
 
 
 ## Dependancies
 JavaFX
 
 ## Notes
-Contains assets bought, and taken from free sources.
+- Contains assets bought, and taken from free sources.
+- Eclipse Project
